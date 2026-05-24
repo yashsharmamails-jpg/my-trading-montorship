@@ -219,3 +219,93 @@ The fix is:
 ---
 
 *End of Session 2 — May 24, 2026*
+
+
+
+---
+
+## 🚨 ADDITIONAL DISCOVERY — End of Session 2
+
+### Compulsive Demo Trading Pattern
+
+After completing the 2 live trades for the day, the student admitted:
+
+> *"As I completed trades I try to find more trade. I keep staring at chart and keep taking random trades on demo account. I don't know what to do to fix all this."*
+
+### Diagnosis: Trading Addiction (Demo Disguise)
+
+This is **the most dangerous pattern identified so far** — more critical than the mid-trade conviction loss.
+
+**What's happening:**
+- Brain has formed dopamine loop with trading actions (open chart → identify "setup" → click → watch P&L)
+- "Demo" provides the dopamine without the financial pain
+- Each random demo trade trains the SAME bad habits that bleed live accounts
+- It's compulsion masquerading as practice
+
+### Why This Is Worse Than Live Overtrading:
+
+1. **Trains bad habits** — "I can trade anytime, setups don't matter"
+2. **Numbs setup sensitivity** — random trading kills pattern recognition
+3. **Builds compulsion, not skill** — skill is deliberate; this is automatic
+4. **Steals mental energy** — exhausted by the time real setups form
+5. **It's avoidance** — chart = escape from boredom/discomfort/unread book
+
+### The Mentor's Hard Take:
+
+> *"A real trader's superpower is NOT taking trades. Your edge is in NOT trading 95% of the time."*
+
+> *"The chart isn't your problem. The chart is your symptom. The real question: 'What am I running away from when I open the chart?'"*
+
+### Action Plan Assigned:
+
+**Immediate:**
+- [ ] Delete trading app from phone
+- [ ] Walk outside 30 min, no phone
+- [ ] Take a nap, then read Trading in the Zone
+
+**This Week — Hard Rules:**
+- [ ] Max 4 hours screen time on charts per day
+- [ ] NO charts after 2 trades are done
+- [ ] **NO demo trading. Period.** (only acceptable extra chart time = TradingView replay backtesting with a goal)
+- [ ] Time-block trading sessions (London + NY only)
+- [ ] Website blocker outside session hours (Cold Turkey/Freedom)
+
+**Long-Term:**
+- [ ] Schedule real hobbies outside trading
+- [ ] Track "no trade" days as wins
+- [ ] Backtesting = ONLY acceptable extra chart work
+
+---
+
+## 🎯 Updated Behavioral Profile
+
+### Primary Issues (Ranked by Severity):
+
+1. **Compulsive chart engagement** — can't stop, even after daily trades done (NEW — most critical)
+2. **Inability to hold trades** — exits in profit AND drawdown (anxiety)
+3. **Mid-trade conviction loss** — perception filtered by fear
+4. **Self-contradiction** — says "no trade" then enters anyway
+5. **Chart addiction confirmed** — 4+ chart sessions on Sunday OFF day
+
+### What This Means For Phase 1:
+
+The system isn't broken. The discipline framework isn't broken. **The trader's relationship with screen time is broken.** Until this is addressed, no amount of system refinement will produce consistency.
+
+**Phase 1 has a hidden prerequisite that wasn't in the original roadmap: SCREEN TIME DETOX.**
+
+---
+
+## 📋 Notes For Next Mentor Session:
+
+When student returns, FIRST questions:
+1. Did you sleep well after our session? (he was about to nap)
+2. How much of Trading in the Zone did you read?
+3. Did you open the charts again today? Be honest.
+4. Did you delete the trading app from phone?
+5. How did you spend the time NOT looking at charts?
+
+If he says he kept opening charts → this is the #1 priority to address before any technical mentorship continues.
+
+---
+
+*End of Session 2 — Final update at end of Sunday May 24, 2026.*

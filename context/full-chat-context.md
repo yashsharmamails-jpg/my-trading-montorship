@@ -439,3 +439,78 @@ Mentor provided a detailed summary of Mark Douglas's book covering:
 ---
 
 *This document is the complete brain dump. Any AI reading this has full context to continue the mentorship.*
+
+
+
+---
+
+## SESSION 2 — END OF DAY UPDATE (CRITICAL)
+
+### NEW PATTERN DISCOVERED: COMPULSIVE DEMO TRADING
+
+After his 2 live trades, student admitted:
+
+> *"I keep staring at chart and keep taking random trades on demo account. I don't know what to do to fix all this."*
+
+This is the **most critical pattern identified so far.**
+
+### Diagnosis:
+
+**Trading addiction in demo disguise.**
+- Dopamine loop: open chart → identify "setup" → click → watch P&L
+- Demo removes financial pain but trains the SAME bad habits
+- "Practice" rationalization hides compulsive behavior
+- It's avoidance of boredom, discomfort, unread book
+
+### Severity:
+
+This pattern OUTRANKS the previously identified mid-trade conviction loss. Reason: until this is fixed, no amount of system refinement helps. He'll always find ways to trade more than the system allows.
+
+### Mentor's Position:
+
+- Random demo trading after daily limit is reached = **NEGATIVE training**, not neutral
+- Trains: "setups don't matter, I can trade anytime, no off-switch needed"
+- The fix is NOT more rules — it's a **screen time detox**
+
+### Hard Rules Established:
+
+1. **NO demo trading. Period.** Only TradingView replay backtesting (goal-oriented) is acceptable.
+2. **Max 4 hours chart time per day.**
+3. **NO charts after the 2 daily trades are complete.**
+4. **Delete trading app from phone.**
+5. **Use website blocker (Cold Turkey/Freedom) outside session hours.**
+
+### Updated Behavioral Profile (Ranked by Severity):
+
+1. **Compulsive chart engagement** — can't stop after daily trades done (CRITICAL, NEW)
+2. **Inability to hold trades** — exits in BOTH profit and drawdown (anxiety about positions)
+3. **Mid-trade conviction loss** — perception filtered by fear
+4. **Self-contradiction** — says "no trade" then enters anyway within 20 min
+5. **Chart addiction** — 4+ sessions on Sunday OFF day
+
+---
+
+## CRITICAL NOTES FOR NEXT AI:
+
+21. **HIGHEST PRIORITY:** Address compulsive chart/demo behavior BEFORE any technical mentorship.
+22. **If student opens with new trade idea or chart screenshot:** First ask — "Have you stayed away from charts as instructed? Did you read the book?" Don't engage with the chart until behavioral question is answered.
+23. **Backtesting in TradingView replay = OK.** Random demo trading = NOT OK. Differentiate clearly.
+24. **The chart is his coping mechanism for boredom/anxiety.** Until he replaces it with healthier habits, the trading discipline cannot stick.
+25. **Phase 1 hidden prerequisite:** Screen time detox MUST happen before he can complete Phase 1 milestones.
+
+---
+
+## OPENING QUESTIONS FOR NEXT SESSION:
+
+When student returns, ask in this order:
+1. "Did you read Trading in the Zone? How much?"
+2. "How much chart time today?"
+3. "Did you take any trades — live or demo?"
+4. "Did you delete the trading app from phone like agreed?"
+5. "How did you spend time AWAY from charts?"
+
+If answers indicate continued chart compulsion → that's the conversation. No technical analysis.
+
+---
+
+*Last updated: End of Sunday May 24, 2026 — student going to nap, then read.*
