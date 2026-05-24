@@ -45,29 +45,32 @@
 
 ---
 
-## 📸 Charts
+## 📸 Charts (To Be Uploaded)
 
-### Entry Setup (LTF)
-![Entry Setup](./images/trade-001-entry.png)
-*Sweep at the top, CHoCH/BOS to downside, short entry on retest*
+> Save your TradingView screenshots and upload them to `journal/images/` folder with the filenames below. Once uploaded, they'll automatically display here.
 
-### HTF Context
-![HTF Chart](./images/trade-001-htf.png)
-*HTF bearish — downtrend from 78,200, lower highs, lower lows*
+| Filename | Description | Status |
+|---|---|---|
+| `trade-001-entry.png` | Entry setup — sweep, CHoCH/BOS to downside, short entry on retest | ⬜ Pending |
+| `trade-001-htf.png` | HTF context — bearish downtrend from 78,200, lower highs/lows | ⬜ Pending |
+| `trade-001-drawdown.png` | Trade in drawdown — ~$6 down after entry | ⬜ Pending |
+| `trade-001-tp-approach.png` | Price reached +1R, SL moved to BE | ⬜ Pending |
+| `trade-001-be-hit.png` | Price retraced, tagged BE, stopped out at $0 | ⬜ Pending |
 
-### Trade Running (Drawdown Phase)
-![Drawdown](./images/trade-001-drawdown.png)
-*Trade went into ~$6 drawdown immediately after entry*
+### How To Upload Images:
 
-### TP Approach
-![TP Approach](./images/trade-001-tp-approach.png)
-*Price moved in favor, reached +1R, SL moved to BE*
+**Option 1 — GitHub Web UI:**
+1. Go to: https://github.com/yashsharmamails-jpg/my-trading-montorship/tree/session-2-update/journal/images
+2. Click "Add file" → "Upload files"
+3. Drag your screenshots in (rename them to match filenames above)
+4. Commit
 
-### BE Stop Out
-![BE Hit](./images/trade-001-be-hit.png)
-*Price retraced, tagged breakeven, stopped out at $0*
+**Option 2 — Locally:**
+1. Save screenshots with the filenames above
+2. Place them in `journal/images/`
+3. Commit and push
 
-> **NOTE:** Add chart screenshots to `journal/images/` folder with these filenames
+Once uploaded, change `⬜ Pending` to `✅ Uploaded` and the images will appear in this journal automatically.
 
 ---
 

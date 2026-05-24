@@ -44,25 +44,31 @@
 
 ---
 
-## 📸 Charts
+## 📸 Charts (To Be Uploaded)
 
-### Pre-Trade Analysis (HTF)
-![HTF Bias](./images/trade-002-htf.png)
-*HTF showing recent bullish impulse from 74k to 77k — counter-trend short setup*
+> Save your TradingView screenshots and upload them to `journal/images/` folder with the filenames below.
 
-### Entry Setup (LTF)
-![Entry Setup](./images/trade-002-entry.png)
-*Sweep above 77,060, CHoCH bearish shift, short entry at 76,934*
+| Filename | Description | Status |
+|---|---|---|
+| `trade-002-htf.png` | HTF showing bullish impulse from 74k to 77k (counter-trend setup) | ⬜ Pending |
+| `trade-002-entry.png` | Entry setup — sweep at 77,060, CHoCH bearish, short at 76,934 | ⬜ Pending |
+| `trade-002-profit.png` | Trade in profit — ~35 points before manual exit | ⬜ Pending |
+| `trade-002-post-exit.png` | **The painful lesson** — price hit target zone (~76,800) AFTER my exit | ⬜ Pending |
 
-### Initial Profit (Before Manual Exit)
-![Initial Profit](./images/trade-002-profit.png)
-*Trade immediately went into ~35 points profit*
+### How To Upload Images:
 
-### After Manual Exit (Painful Lesson)
-![Post-Exit Move](./images/trade-002-post-exit.png)
-*After exiting at ~$5 profit, price dumped to target zone (~76,800) without me*
+**Option 1 — GitHub Web UI:**
+1. Go to: https://github.com/yashsharmamails-jpg/my-trading-montorship/tree/session-2-update/journal/images
+2. Click "Add file" → "Upload files"
+3. Drag your screenshots in (rename them to match filenames above)
+4. Commit
 
-> **NOTE:** Add chart screenshots to `journal/images/` folder with these filenames
+**Option 2 — Locally:**
+1. Save screenshots with the filenames above
+2. Place them in `journal/images/`
+3. Commit and push
+
+Once uploaded, change `⬜ Pending` to `✅ Uploaded` and the images will appear in this journal automatically.
 
 ---
 
