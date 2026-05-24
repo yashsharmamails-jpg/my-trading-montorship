@@ -322,17 +322,103 @@ Mentor provided a detailed summary of Mark Douglas's book covering:
 
 ---
 
+---
+
+### TRADE 6 — BTC SHORT → Manual Exit (Grade: C)
+
+| Field | Value |
+|---|---|
+| Date | May 24, 2026 (Sunday) |
+| Pair | BTC/USD |
+| Direction | SHORT |
+| Entry | 76,934.35 |
+| SL | 77,083.53 |
+| TP | 76,636.57 |
+| Risk | 0.5% |
+| R:R | 1:2.0 |
+| Result | **MANUAL EXIT** (small profit ~$3-5) |
+| Grade | **C** |
+
+**Setup Details:**
+- HTF: Debatable — recent impulse 74k→77k is bullish (counter-trend short)
+- Location: Price at supply zone / premium ✅
+- Sweep: Highs swept at ~77,060 ✅
+- BOS: Only CHoCH confirmed, NOT full BOS ⚠️
+- Retest: Entered on retest of choch level ✅
+- R:R: 1:2 met ✅
+
+**What happened:**
+1. Student wrote "no trade today, direction unclear" → entered 20 minutes later anyway
+2. Setup was decent (B- grade on entry quality)
+3. Trade was immediately in profit (~35 points)
+4. Student lost confidence WHILE IN PROFIT
+5. Manually closed the trade — reason: "not getting confidence, better to save capital"
+6. Broke trade management rules (no manual exit unless SL/TP hit)
+
+**Why Grade C (not D):**
+- Setup had valid elements (sweep, location, retest)
+- SL placement was correct
+- Risk was 0.5% (proper sizing)
+- Not a FOMO entry — had pre-planned the idea earlier
+
+**Why Grade C (not B):**
+- Entered after saying "no trade" (contradicted own analysis)
+- CHoCH used instead of confirmed BOS (early entry)
+- Counter-trend (HTF bullish impulse)
+- Manual exit broke trade management rules
+- Emotional decision, not system decision
+
+---
+
+### CRITICAL BEHAVIORAL PATTERN CONFIRMED:
+
+**Inability To Hold Trades (Both Directions):**
+
+| Situation | What He Does |
+|---|---|
+| Trade in drawdown | Wants to exit at BE |
+| Trade in profit | STILL wants to exit early |
+
+**This proves the problem is NOT about being in drawdown. The problem is being in a trade AT ALL.** The discomfort of uncertainty (in either direction) triggers the exit impulse.
+
+**Diagnosis:** Trading anxiety. The student cannot tolerate the uncertainty of an open position regardless of P&L direction. This is the #1 priority to fix.
+
+**Fix Required:**
+- Trading in the Zone (reading assigned)
+- New rule proposed: NO MANUAL EXITS. Only SL or TP. Period.
+- Backtesting will help build trust (seeing the system work 50 times without money on the line)
+
+---
+
+### SESSION 2 ADDITIONAL NOTES:
+
+**Black Box Strategy (from Traders Paradise) discussed:**
+- Student shared full transcript of his teacher's Part 2 video
+- Black Box = same concept as student's system (Sweep → wait → re-cross = entry)
+- Confirmed alignment between teacher's approach and our system
+- Key difference taught: Black Box vs Fake Breakout (re-cross = BB, lower lows = fake breakout)
+
+**"No Trade" Analysis (correct decision before Trade 6):**
+- Student correctly identified market was in compression/chop
+- Wrote detailed notes on why no setup existed
+- Applied system correctly: Direction = unclear = no trade
+- Then contradicted himself 20 minutes later by entering anyway
+- Shows the ANALYSIS is not the problem — the DISCIPLINE is
+
+---
+
 ### STATS UPDATE:
 
 | Metric | Value |
 |---|---|
-| Total Trades (Under New System) | 1 |
+| Total Trades (Under New System) | 2 |
 | Wins | 0 |
 | Losses | 0 |
 | Breakeven | 1 |
+| Manual Exits | 1 |
 | Win Rate | N/A (too few trades) |
-| Total P&L | $0 |
-| Rules Compliance | 100% (1/1 trades = A grade) |
+| Total P&L | ~$3-5 (negligible) |
+| Rules Compliance | 50% (1/2 trades = A grade, 1/2 = C grade) |
 | Revenge Trades | 0 |
 
 ---
@@ -345,6 +431,10 @@ Mentor provided a detailed summary of Mark Douglas's book covering:
 14. **He followed all rules on Trade 5** — use this as proof he CAN be disciplined when he doubts himself
 15. **Trading in the Zone concepts resonate** — particularly the 5 Fundamental Truths. Reference them when he panics mid-trade.
 16. **He's reading the book now** — follow up on what he learned in next session
+17. **NEW: Cannot hold trades even when in profit** — this is anxiety, not analysis. The fix is a hard rule: NO MANUAL EXITS.
+18. **Contradicts his own analysis** — says "no trade" then enters 20 minutes later. Watch for this pattern.
+19. **Chart addiction confirmed again** — said "I'm done, going to read" → was back on charts within minutes
+20. **Proposed new rule: No manual exits ever. Only SL or TP close a trade.** — enforce this going forward.
 
 ---
 

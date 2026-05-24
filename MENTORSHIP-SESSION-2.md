@@ -130,12 +130,66 @@ Mentor gave student a comprehensive summary covering:
 ### Under New System Only:
 | Metric | Value |
 |---|---|
-| Total Trades | 1 |
+| Total Trades | 2 |
 | Wins | 0 |
 | Losses | 0 |
 | Breakeven | 1 |
-| Rules Compliance | 100% |
-| P&L | $0 |
+| Manual Exit | 1 |
+| Rules Compliance | 50% (1A, 1C) |
+| P&L | ~$3-5 (negligible) |
+
+---
+
+## TRADE 6 — BTC SHORT → Manual Exit (Grade: C)
+
+### Setup:
+| Step | Status | Detail |
+|---|---|---|
+| DIRECTION | ⚠️ | Counter-trend — recent impulse 74k→77k is bullish |
+| LOCATION | ✅ | Supply zone / premium area |
+| SWEEP | ✅ | Highs swept at ~77,060 |
+| BOS | ⚠️ | Only CHoCH, not full BOS (early entry) |
+| RETEST | ✅ | Entered on retest of choch level |
+| ENTRY | ✅ | Short at 76,934.35, SL at 77,083.53, TP at 76,636.57 |
+
+### Numbers:
+| Field | Value |
+|---|---|
+| Entry | 76,934.35 |
+| SL | 77,083.53 |
+| TP | 76,636.57 |
+| R:R | 1:2.0 |
+| Result | **MANUAL EXIT** |
+| P&L | ~$3-5 (small profit) |
+
+### What happened:
+1. Student had written "no trade today, direction unclear" 20 mins prior
+2. Entered anyway based on earlier bias (sweep identified hours before)
+3. Trade went immediately into profit (~35 points)
+4. Despite being in profit, student "lost confidence"
+5. Manually exited — said "not getting confidence, better to save capital"
+6. Broke trade management rules
+
+### Grade: **C**
+- Valid-ish setup but entered after contradicting own analysis
+- CHoCH not BOS (early entry)
+- Counter-trend
+- Manual exit broke rules (only SL/TP should close trades)
+
+---
+
+## CRITICAL DISCOVERY — SESSION 2:
+
+**The student cannot hold trades in EITHER direction:**
+- In drawdown → wants to exit
+- In profit → STILL wants to exit
+
+**This is not an analysis problem. This is ANXIETY about open positions.**
+
+The fix is:
+1. Hard rule: NO MANUAL EXITS (only SL or TP)
+2. Trading in the Zone (building probabilistic thinking)
+3. Backtesting (building trust without money on the line)
 
 ---
 
@@ -143,6 +197,7 @@ Mentor gave student a comprehensive summary covering:
 
 - [x] System defined ✅
 - [x] First live trade under system ✅ (BTC Short, Grade A)
+- [x] Second live trade under system (BTC Short, Grade C — manual exit)
 - [🟡] Trading in the Zone — reading now
 - [ ] Sunday evening prep (mark HTF zones, economic calendar)
 - [ ] Backtest 50 trades (Week 2)
@@ -153,11 +208,13 @@ Mentor gave student a comprehensive summary covering:
 ## NEXT SESSION SHOULD:
 
 1. Ask what he learned from Trading in the Zone
-2. Check if he did Sunday evening prep
-3. Review any trades from Tuesday onward (Monday is US holiday)
-4. Watch for mid-trade conviction loss pattern
-5. Push toward backtesting if not started
-6. If he's taken 5+ trades, start looking at data patterns
+2. Enforce NEW RULE: No manual exits. Only SL or TP.
+3. Check if he did Sunday evening prep
+4. Review any trades from Tuesday onward (Monday is US holiday)
+5. Watch for mid-trade conviction loss pattern
+6. Watch for "says no trade then enters anyway" pattern
+7. Push toward backtesting if not started
+8. If he's taken 5+ trades, start looking at data patterns
 
 ---
 
