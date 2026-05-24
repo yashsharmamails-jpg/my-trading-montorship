@@ -173,7 +173,8 @@ DIRECTION → LOCATION → SWEEP → BOS → RETEST → ENTER
 ## HOMEWORK ASSIGNED:
 
 - [x] Build Notion workspace (DONE)
-- [ ] Listen to "Trading in the Zone" by Mark Douglas (Chapters 1-3)
+- [x] First live trade under new system (DONE — BTC Short, BE, Grade A)
+- [🟡] Listen to/read "Trading in the Zone" by Mark Douglas (IN PROGRESS)
 - [ ] Sunday evening: weekly prep (mark zones, check calendar, set bias)
 - [ ] Tuesday (Monday is US holiday): first real trading day under system
 - [ ] Backtest 50 trades in TradingView replay mode (Week 2)
@@ -217,6 +218,133 @@ Respond as a mentor: direct, experienced, no BS. Focus on execution and consiste
 8. 1:2 minimum R:R or skip
 9. Never increase lot size after a loss
 10. Weekly review every Sunday
+
+---
+
+---
+
+## SESSION 2: May 24, 2026 (Sunday)
+
+### Date: May 24, 2026
+### Duration: ~1 hour
+### Market: BTC (Bitcoin)
+
+---
+
+### TRADE 5 — BTC SHORT → Breakeven (Grade: A)
+
+| Field | Value |
+|---|---|
+| Date | May 24, 2026 (Sunday) |
+| Pair | BTC/USD |
+| Direction | SHORT |
+| Entry | 76,739.27 |
+| Original SL | 76,872.13 |
+| TP | 76,413.51 |
+| Risk | 0.5% |
+| R:R | 1:2.45 |
+| Result | **BREAKEVEN** ($0) |
+| SL moved to BE | At +1R (rule followed correctly) |
+| Grade | **A** |
+
+**Setup Details:**
+- HTF: Bearish (downtrend from 78,200, lower highs/lower lows confirmed on H4)
+- Location: Price at supply zone (~76,920-76,960) — premium
+- Sweep: Liquidity grabbed above range high (~76,960-77,020)
+- BOS: Structure broke to downside on LTF (M5/M15) after sweep
+- Retest: Entered on pullback to broken structure level
+- All 6 steps confirmed ✅
+
+**What happened:**
+1. Trade went into ~$6 drawdown immediately after entry
+2. Student panicked — said "I can't find the logic to go short anymore"
+3. Mentor showed him his own logic was still valid (all 6 steps present on chart)
+4. Price moved in his favor, reached +1R
+5. Student moved SL to breakeven at +1R (correctly following the rule)
+6. Price retraced and tagged breakeven — stopped out at $0
+7. Trade never reached TP (76,413)
+
+**Behavioral Observations:**
+- **MID-TRADE DOUBT:** Key new pattern identified. When in drawdown, student loses conviction in his own analysis. Brain "hides" the logic that was clear before entry.
+- **Wanted to exit early:** Admitted wanting to move to BE and exit during initial drawdown (before 1R was reached)
+- **Followed rules anyway:** Despite emotional urge, held through the drawdown and only moved SL at proper 1R level
+- **Emotional management improving:** Didn't revenge trade after BE hit. Accepted the outcome and chose to study instead.
+
+---
+
+### NEW PSYCHOLOGICAL PATTERN IDENTIFIED:
+
+**Mid-Trade Conviction Loss:**
+- Student enters with clear logic (all 6 steps confirmed)
+- The moment drawdown occurs, brain reinterprets the chart as bearish-for-his-position
+- Suddenly "can't find the logic" that was obvious 5 minutes ago
+- This is a PERCEPTION problem (Trading in the Zone, Chapter 5) — fear filters out confirming evidence
+- Fix: Accept that drawdown is normal. SL is the only invalidation point. Until SL is hit, the trade thesis is intact.
+
+**Root Cause:** Lack of trust in the system over a series of trades. Student needs to internalize that the system works over 30-50 trades, NOT on every individual trade.
+
+---
+
+### SESSION 2 KEY MOMENTS:
+
+1. Student took a LIVE trade on BTC (Sunday — crypto markets open)
+2. All 6 steps were confirmed (Direction, Location, Sweep, BOS, Retest, Entry)
+3. R:R was 1:2.45 (above minimum 1:2)
+4. Student experienced mid-trade doubt at -$6 drawdown
+5. Mentor talked him through it — showed the logic was still there on his own chart
+6. Student held through drawdown ✅
+7. Moved SL to BE at +1R ✅ (correct rule application)
+8. Trade hit BE — $0 result
+9. Student did NOT revenge trade after BE ✅
+10. Student chose to go read "Trading in the Zone" — excellent decision ✅
+
+---
+
+### TRADING IN THE ZONE SUMMARY PROVIDED:
+
+Mentor provided a detailed summary of Mark Douglas's book covering:
+- 5 Fundamental Truths
+- Core concepts (thinking in probabilities, not certainties)
+- Direct application to student's mid-trade doubt
+- Emphasis on: "Your edge plays out over a SERIES of trades, not any single one"
+
+---
+
+### HOMEWORK STATUS (Updated):
+
+- [x] Build Notion workspace (DONE — Session 1)
+- [x] System defined and simplified (DONE — Session 1)
+- [x] First live trade under new system (DONE — Session 2, BTC Short, Grade A)
+- [🟡] Listen to/read "Trading in the Zone" by Mark Douglas (IN PROGRESS — going to read now)
+- [ ] Sunday evening: weekly prep (mark zones, check calendar, set bias)
+- [ ] Backtest 50 trades in TradingView replay mode (Week 2)
+- [ ] After 10 live trades: come back for first check-in
+
+---
+
+### STATS UPDATE:
+
+| Metric | Value |
+|---|---|
+| Total Trades (Under New System) | 1 |
+| Wins | 0 |
+| Losses | 0 |
+| Breakeven | 1 |
+| Win Rate | N/A (too few trades) |
+| Total P&L | $0 |
+| Rules Compliance | 100% (1/1 trades = A grade) |
+| Revenge Trades | 0 |
+
+---
+
+### NOTES FOR NEXT AI (Updated):
+
+11. **New pattern: Mid-trade conviction loss** — student doubts valid trades during drawdown. The fix is NOT more analysis, it's building BELIEF through repetition and reading Trading in the Zone.
+12. **Student is now trading BTC** — in addition to XAUUSD, NAS100, EURUSD (crypto is 24/7, so he can trade weekends)
+13. **BE stop-outs will frustrate him** — remind him that BE = $0 cost and the system works over 30+ trades
+14. **He followed all rules on Trade 5** — use this as proof he CAN be disciplined when he doubts himself
+15. **Trading in the Zone concepts resonate** — particularly the 5 Fundamental Truths. Reference them when he panics mid-trade.
+16. **He's reading the book now** — follow up on what he learned in next session
 
 ---
 
