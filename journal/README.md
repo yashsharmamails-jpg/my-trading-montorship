@@ -7,12 +7,20 @@
 
 ---
 
-## 📊 Trade Log Index
+## 📊 Trade Log
 
 | # | Date | Pair | Direction | Result | Grade | Link |
 |---|---|---|---|---|---|---|
 | 1 | May 24, 2026 | BTC/USD | SHORT | BE ($0) | **A** | [Trade 1](./trade-001-btc-short.md) |
 | 2 | May 24, 2026 | BTC/USD | SHORT | Manual Exit (~$5) | **C** | [Trade 2](./trade-002-btc-short.md) |
+
+---
+
+## 📅 Daily Logs
+
+| Day | Date | Trades | P&L | Avg Grade | Link |
+|---|---|---|---|---|---|
+| 1 | May 24, 2026 (Sun) | 2 | ~$5 | B (1A + 1C) | [Day 1](./day-001-may-24-2026.md) |
 
 ---
 
@@ -29,12 +37,8 @@
 | Total P&L | ~$5 |
 | Rules Compliance | 50% (1A, 1C) |
 | Revenge Trades | 0 |
-
----
-
-## 📅 Daily Log
-
-- [Day 1 — May 24, 2026 (Sunday)](./day-001-may-24-2026.md) — 2 trades, BE day, key lesson learned
+| A-Grade Trades | 1 |
+| D-Grade Trades | 0 |
 
 ---
 
@@ -43,24 +47,45 @@
 ```
 journal/
 ├── README.md                          ← This file (index)
-├── trade-001-btc-short.md             ← Individual trade entries
-├── trade-002-btc-short.md
-├── day-001-may-24-2026.md             ← Daily summaries
+├── trade-XXX-<pair>-<direction>.md    ← Individual trade entries
+├── day-XXX-<date>.md                  ← Daily summaries
 └── images/                            ← Chart screenshots
-    ├── trade-001-*.png
-    └── trade-002-*.png
+    └── README.md                      ← Naming convention guide
 ```
 
 ---
 
-## 📝 How To Use
+## 📝 How To Log A New Trade
 
-1. Each trade gets its own file (`trade-XXX-pair-direction.md`)
-2. Each trading day gets a daily summary (`day-XXX-date.md`)
-3. Chart screenshots go in `images/` folder
-4. Update `README.md` index after each entry
-5. Update **Running Stats** weekly
+1. Create file: `trade-XXX-<pair>-<direction>.md` (use [Trade 1](./trade-001-btc-short.md) as template)
+2. Fill in setup details, outcome, self-assessment, and grade
+3. Add chart screenshots to `images/` folder
+4. Update the Trade Log table above
+5. Update Running Stats
+
+## 📝 How To Log A Daily Summary
+
+1. Create file: `day-XXX-<date>.md` (use [Day 1](./day-001-may-24-2026.md) as template)
+2. Summarize the day's trades, lessons, and what went right/wrong
+3. Update the Daily Logs table above
+
+---
+
+## 🎯 Weekly Review Reminder
+
+Every **Sunday evening**:
+- Review all trades from the week
+- Calculate win rate, R-multiple, rules compliance
+- Identify the best and worst trade
+- Note one pattern observed
+- Set intention for the next week
+
+Use the [Journal Template](../system/06-journal-template.md) for the full Weekly Review format.
 
 ---
 
 *"My job is to execute MY system. Not to predict the market."*
+
+---
+
+[← Back to repo overview](../README.md)
