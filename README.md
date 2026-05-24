@@ -115,7 +115,9 @@ See [journal/README.md](./journal/README.md) for live updates.
 | Phase 4 | Months 4-6 | Consistency proof + funded challenge | ⚪ Not Started |
 | Phase 5 | Month 7+ | Scale to multiple accounts | ⚪ Not Started |
 
-[Full roadmap →](./system/04-roadmap.md)
+**[📍 LIVE ROADMAP & PROGRESS TRACKER →](./ROADMAP.md)** ← Always up to date
+
+[Full system roadmap →](./system/04-roadmap.md)
 
 ---
 
