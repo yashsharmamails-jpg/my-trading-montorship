@@ -13,6 +13,7 @@
 |---|---|---|---|---|---|---|
 | 1 | May 24, 2026 | BTC/USD | SHORT | BE ($0) | **A** | [Trade 1](./trade-001-btc-short.md) |
 | 2 | May 24, 2026 | BTC/USD | SHORT | Manual Exit (~$5) | **C** | [Trade 2](./trade-002-btc-short.md) |
+| 3 | May 25, 2026 | XAUUSD | SHORT | **WIN +$35.60** | **A-** | [Trade 3](./trade-003-xauusd-short.md) |
 
 ---
 
@@ -21,6 +22,7 @@
 | Day | Date | Trades | P&L | Avg Grade | Link |
 |---|---|---|---|---|---|
 | 1 | May 24, 2026 (Sun) | 2 | ~$5 | B (1A + 1C) | [Day 1](./day-001-may-24-2026.md) |
+| 2 | May 25, 2026 (Mon) | 1 | +$35.60 | A- | [Day 2](./day-002-may-25-2026.md) |
 
 ---
 
@@ -28,16 +30,16 @@
 
 | Metric | Value |
 |---|---|
-| Total Trades | 2 |
-| Wins | 0 |
+| Total Trades | 3 |
+| Wins | 1 |
 | Losses | 0 |
 | Breakeven | 1 |
 | Manual Exits | 1 |
-| Win Rate | N/A |
-| Total P&L | ~$5 |
-| Rules Compliance | 50% (1A, 1C) |
+| Win Rate | 33% (1/3) |
+| Total P&L | ~$40 |
+| Rules Compliance | 66% (1A, 1A-, 1C) |
 | Revenge Trades | 0 |
-| A-Grade Trades | 1 |
+| A-Grade Trades | 2 |
 | D-Grade Trades | 0 |
 
 ---

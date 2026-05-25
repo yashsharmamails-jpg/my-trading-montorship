@@ -72,13 +72,13 @@ Persistent context so any AI mentor can pick up where we left off.
 
 | Metric | Value |
 |---|---|
-| Total Trades (New System) | 2 |
-| Wins | 0 |
+| Total Trades (New System) | 3 |
+| Wins | 1 |
 | Losses | 0 |
 | Breakeven | 1 |
 | Manual Exits | 1 |
-| Total P&L | ~$5 |
-| Rules Compliance | 50% |
+| Total P&L | ~$40 |
+| Rules Compliance | 66% |
 
 See [journal/README.md](./journal/README.md) for live updates.
 

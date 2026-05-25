@@ -228,7 +228,7 @@ Month 7+░░░░░░░░░░░░  Phase 5 (scaling)
 | Day | Date | Trades | P&L | Grade | Key Event |
 |---|---|---|---|---|---|
 | 1 | May 24 (Sun) | 2 | ~$5 | C+ | First trades, chart addiction confronted |
-| 2 | May 25 (Mon) | — | — | — | *US Holiday — no trading* |
+| 2 | May 25 (Mon) | 1 | +$35.60 | A- | First WIN 🔥 Held to TP, backtested 3 trades |
 | 3 | May 26 (Tue) | — | — | — | *Pending — first real trading day* |
 | 4 | May 27 (Wed) | — | — | — | |
 | 5 | May 28 (Thu) | — | — | — | |
@@ -247,11 +247,11 @@ These are just as important as trade performance:
 | First A-grade trade | ✅ | May 24, 2026 |
 | Held through drawdown | ✅ | May 24, 2026 |
 | Closed charts on OFF time | ✅ | May 24, 2026 (evening) |
-| No demo gambling for 24 hours | 🟡 | In progress |
+| No demo gambling for 24 hours | ✅ | May 25, 2026 |
 | Read Trading in the Zone (Ch 1-3) | 🟡 | Started (10 pages) |
 | 5 consecutive "no manual exit" days | ⬜ | |
 | First full week following all rules | ⬜ | |
-| First winning trade (full TP hit) | ⬜ | |
+| First winning trade (full TP hit) | ✅ | May 25, 2026 |
 | 10 trades without a D-grade | ⬜ | |
 | Completed 50 backtests | ⬜ | |
 | First profitable week | ⬜ | |
