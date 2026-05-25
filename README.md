@@ -68,22 +68,38 @@ Persistent context so any AI mentor can pick up where we left off.
 
 ---
 
+## 🚨 Current Status
+
+> **TRADING PAUSED** — May 26 & 27. Resumes Thursday May 28 conditional on homework completion. See [ROADMAP.md](./ROADMAP.md) for details on Day 2 spiral.
+
+---
+
 ## 📊 Current Stats
 
 | Metric | Value |
 |---|---|
-| Total Trades (New System) | 3 |
-| Wins | 1 |
-| Losses | 0 |
-| Breakeven | 1 |
-| Manual Exits | 1 |
-| Total P&L | ~$40 |
-| Rules Compliance | 66% |
+| Total Trades (New System) | **7** |
+| Wins | 2 |
+| Losses | 2 |
+| Breakeven | 2 |
+| Manual Exits | 2 (Trade #2 BTC, Trade #7 XAUUSD) |
+| Total P&L | ~+$55 |
+| Rules Compliance | **43%** (3 of 7 clean) |
+| A/A- Grade Trades | 2 |
+| D Grade Trades | 2 |
 | Focus Pair | XAUUSD only |
-| Current Phase | Phase 1 — Day 3 |
-| Last Updated | May 25, 2026 |
+| Current Phase | Phase 1 — Day 3 (Trading Paused) |
+| Last Updated | May 25, 2026 (End of NY Session) |
 
 See [journal/README.md](./journal/README.md) for live updates.
+
+### Recent Sessions
+
+| Session | Date | Outcome |
+|---|---|---|
+| [Session 1](./sessions/session-1-may-23-2026.md) | May 23 | System defined |
+| [Session 2](./sessions/session-2-may-24-2026.md) | May 24 | First 2 live trades, mid-trade conviction loss identified |
+| [Session 3](./sessions/session-3-may-25-2026.md) | May 25 | A- morning trade then 4-trade overtrading spiral, 2-day pause enforced |
 
 ---
 

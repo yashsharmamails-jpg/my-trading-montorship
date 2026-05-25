@@ -849,3 +849,137 @@ Mentor should:
 ---
 
 *Session 3 check-in complete. Student going to read. Will return for pre-NY markup.*
+
+
+
+---
+
+## SESSION 3 — PART 2: THE NY SPIRAL (May 25, 2026 evening)
+
+### CRITICAL INCIDENT — 5-Trade Overtrading Day
+
+After morning A- trade (+$35.60), NY session devolved into 4-trade spiral:
+
+| # | Trade | Result | Grade |
+|---|---|---|---|
+| 3 | Morning XAUUSD Short | +$35.60 | A- |
+| 4 | NY Long #1 | -$15 | B- (counter-trend, but held SL) |
+| 5 | NY Long #2 | BE | C (broke 2-trade limit) |
+| 6 | NY Long #3 | -$15 | D (bias lock continued) |
+| 7 | NY Long #4 | +$45 manual close | D (multiple rule violations) |
+
+**Net: +$50.60 — but process was 40% compliant. Day Grade: D+**
+
+### THE LIE
+
+Student initially disclosed only 1 loss and 3 trades. Came clean after pressing:
+> *"I lied to you. I took two more trades before that. One was in loss and one was BE."*
+
+Honesty came eventually but lying was the first instinct.
+
+### THE BEGGING
+
+Student asked mentor not to enforce 2-day pause:
+> *"please i really don't want to waste 2 day. don't punish me for that. I promise I will follow all the rules from now on"*
+
+Mentor held firm using student's OWN rule from his ROADMAP:
+> "If you break rules 3x in a week → take 2 days off."
+
+Reframed pause as RECOVERY not punishment.
+
+### NEW PATTERNS IDENTIFIED (CRITICAL FOR FUTURE AI)
+
+**Pattern 6: BIAS LOCK**
+- Once committed to a directional thesis, refuses to update
+- Took 4 longs against H4 bearish — refused to accept market disagreement
+- This is the same pattern that destroys traders in trends
+
+**Pattern 7: LOSS-DAY AVERSION**
+- Cannot tolerate finishing red
+- "Will lose confidence to be full-time trader" = identity tied to daily P&L
+- This is THE driver of revenge trading
+
+**Pattern 8: SHAME LYING**
+- First instinct under shame = hide
+- Eventually tells truth when pushed
+- Watch for: minimizing trade counts, glossing over rule breaks, vague language
+
+**Pattern 9: REVENGE SIZING (Subtle)**
+- Risk % stayed at 0.5% ✅
+- BUT: tighter SL → higher quantity → more emotional weight
+- "Rule-compliant gambling" — same psychology, different math
+
+### ENFORCEMENT
+
+- ❌ NO live trading May 26 (Tue) and May 27 (Wed)
+- ✅ Allowed: replay backtesting, reading book, journaling, freelancing
+- ✅ Resume Thursday May 28 IF homework done
+- ❌ NOT allowed: demo trading, more than 2 hrs charts, reduced sleep
+
+### KEY INSIGHTS FOR NEXT AI
+
+26. **Day 2 (May 25) was the day the pattern fully expressed on LIVE money.** This is the watershed entry.
+27. **Profitable rule-breaking is more dangerous than losing rule-breaking** — brain catalogs "breaking rules works." Address this if he ever celebrates a Trade #7-style win.
+28. **He WILL lie first under shame.** When you ask about a trade, ask twice. If answers are vague, push harder.
+29. **The system works** — Trade #3 proves it. The trader is the variable. Don't redesign the system.
+30. **Bias lock is now confirmed** — when he announces a strong directional bias, force opposite-side analysis before he enters.
+31. **Loss-day aversion is the new #1 issue** — he will break ANY rule to avoid finishing red. Counter: "Today's P&L doesn't matter. Process does."
+32. **The 2-day pause is non-negotiable** — written by calm-Yash, demanded back by emotional-Yash. Trust calm.
+33. **First session back (May 28)** — verify homework completed before any technical conversation. If lying → no trading.
+34. **Watch for: "I just opened charts for a minute"** during the pause — this is the relapse signal.
+35. **First trade back must be: 1 trade max, HTF aligned, full checklist, walk away from screen.** No matter what.
+
+### THE EMOTIONAL VOLATILITY
+
+In 5 hours on May 25, student went from:
+- Healthy check-in (all green) →
+- A- morning trade →
+- Bias-locked NY entries →
+- Compulsive overtrading →
+- Lying about it →
+- Eventual honesty →
+- Begging not to face consequence →
+- Acceptance of pause
+
+**This is the volatility we're working on. Not market volatility — emotional swings.**
+
+### HOMEWORK FOR May 26-27
+
+- [ ] Read 30+ pages Trading in the Zone
+- [ ] 10+ replay backtests
+- [ ] Fill exact entry/SL/TP on trade-004 through trade-007
+- [ ] Write reflection: "Why did I lie?"
+- [ ] Re-read trade-007-xauusd-long.md (the rescue trade trap)
+- [ ] Sleep, meds, freelance work
+
+### FIRST QUESTIONS FOR THURSDAY (May 28):
+
+1. Homework done? Specifically what?
+2. Lied about anything in the last 2 days?
+3. What did re-reading trade-007 teach you?
+4. Sleep, meds, mood — green?
+5. Any chart compulsion during pause?
+
+If 2+ red flags → mental health conversation first, no trading.
+
+### KEY PHRASES FROM THIS SESSION TO REMEMBER
+
+- *"I lied to you"* — moment of truth
+- *"will lose confidence to be full-time trader"* — identity tied to P&L
+- *"forgot about the setup"* — pure compulsion
+- *"don't punish me, I promise"* — addiction language
+- *"high quantity and tighter stop"* — revenge sizing dressed as risk management
+
+### MENTOR'S CLOSING TO STUDENT:
+
+> *"Today the market saved you. Tomorrow it won't."*
+
+> *"A profitable rule-break is the most dangerous outcome. The +$45 from Trade #7 is a debt you'll pay later — unless we break the pattern now."*
+
+> *"This is not punishment. This is recovery. Calm-Yash wrote the rule. Emotional-Yash is asking for an exception. Trust calm-Yash."*
+
+---
+
+*Session 3 Part 2 complete. Next session: Thursday May 28, conditional on homework.*
+
+*Last updated: End of Monday May 25, 2026 — student closing charts after lying-then-truth episode. 2-day pause enforced.*
