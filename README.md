@@ -68,6 +68,29 @@ Persistent context so any AI mentor can pick up where we left off.
 
 ---
 
+### 📚 [Knowledge Library](./knowledge/)
+Research-backed reference material — the science behind the system.
+
+| Doc | Purpose |
+|---|---|
+| [📖 Knowledge Index](./knowledge/README.md) | Full navigation + recommended reading order |
+| [01 — Psychology Patterns](./knowledge/01-psychology-patterns.md) | Your 9 confirmed patterns + interventions |
+| [02 — Mental Health × Trading](./knowledge/02-mental-health-trading.md) | Meds, sleep, identity separation |
+| [03 — XAUUSD Deep Dive](./knowledge/03-xauusd-gold-deep-dive.md) | Gold-specific volatility, sessions, traps |
+| [04 — M5 Zones & Structure](./knowledge/04-m5-zones-and-structure.md) | OBs, FVGs, BOS vs CHoCH |
+| [05 — Regime Changes](./knowledge/05-regime-changes.md) | When systems "stop working" |
+| [06 — Trade Management](./knowledge/06-trade-management.md) | SL, BE, partials, trailing |
+| [07 — Statistical Edge](./knowledge/07-statistical-edge.md) | Math of profitability |
+| [08 — Backtesting](./knowledge/08-backtesting.md) | Methodology + sample size |
+| [09 — Prop Firms](./knowledge/09-prop-firms.md) | Funded challenge specifics |
+| [10 — Reading List](./knowledge/10-reading-list.md) | 8 essential books with takeaways |
+| [11 — Contrarian Insights](./knowledge/11-contrarian-insights.md) | What typical coaches won't tell you |
+| [🚨 Quick Reference](./knowledge/intervention-quick-reference.md) | Pattern → fix lookup (in-crisis use) |
+
+Source documents in [knowledge/source-docs/](./knowledge/source-docs/).
+
+---
+
 ## 🚨 Current Status
 
 > **TRADING PAUSED** — May 26 & 27. Resumes Thursday May 28 conditional on homework completion. See [ROADMAP.md](./ROADMAP.md) for details on Day 2 spiral.

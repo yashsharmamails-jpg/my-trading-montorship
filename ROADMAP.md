@@ -30,6 +30,7 @@
 | Focus Pair | **XAUUSD only** |
 | Best Trade | Trade #3 — +$35.60, A- (held to TP) ✅ |
 | Worst Pattern | Trade #7 — manual exit, revenge sizing, "forgot setup" |
+| **Knowledge Library** | ✅ Built — see [`knowledge/`](./knowledge/) for research-backed reference |
 
 ---
 
