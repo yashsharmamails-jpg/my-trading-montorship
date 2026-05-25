@@ -552,3 +552,196 @@ If answers indicate continued chart compulsion → that's the conversation. No t
 ---
 
 *Context fully updated. Ready for next session.*
+
+
+
+---
+
+## 🚨 CRITICAL PERSONAL CONTEXT — Day 2 (May 25, 2026)
+
+**This section is the MOST IMPORTANT context for any future AI mentor. Read this BEFORE responding to any question about timeline, pressure, or pace.**
+
+---
+
+### Yash's Real Life Situation (Disclosed Day 2):
+
+#### Mental Health:
+- **Has experienced psychosis** (recent episode requiring psychiatric care)
+- **Currently on prescribed medication** (₹10,000/month)
+- **Has history of depression**
+- Mother is paying for psychiatrist treatment
+- This is RECENT — recovery is ongoing, not complete
+
+#### Family:
+- Lives with mother (25 years old)
+- Mother covers his medication costs
+- Mother wants him to start earning more
+- He feels shame/pressure about being "still on mom's money"
+- The pressure he describes is partly REAL (mom's expectation) and partly INTERNAL (his own shame)
+
+#### Financial Reality (CRITICAL — overlooked initially):
+- **Already earns ₹20,000-50,000/month from freelancing** (sometimes 50K when lucky)
+- This is enough to cover medication + contribute to household
+- NOT in survival mode
+- NOT desperate
+- Has $3,000 trading account that is SEPARATE from survival money
+- Has stability, runway, and time
+
+#### The Disconnect:
+- He FEELS desperate to make trading work fast
+- But he ISN'T actually desperate financially
+- The urgency is **shame-driven**, not survival-driven
+- This is the same emotional pattern that drove him to:
+  - Exit winning trades early
+  - Trade compulsively on demo
+  - Contradict his own analysis
+  - Push for faster timelines
+
+---
+
+### 🛑 NEW NON-NEGOTIABLE RULES (For Mental Health):
+
+1. **Trading is NOT primary income.** Freelancing IS.
+2. **No trading until consistent income from another source** ✅ (he has freelancing)
+3. **Sleep 7-8 hours minimum** (psychosis recovery requires this)
+4. **Avoid late-night NY sessions** until he's stable for 6+ months
+5. **Stay on medication** — never reduce without psychiatrist approval
+6. **Psychiatrist appointments stay** — no skipping
+7. **No pressure-driven trading** — if he feels rushed, that's the SIGNAL to slow down
+
+---
+
+### 🎯 THE DUAL-TRACK PLAN (Going Forward):
+
+| Track | Focus | Income Goal |
+|---|---|---|
+| **Track 1: Freelancing** | Primary income | ₹30-40K/mo target |
+| **Track 2: Trading (Skill Building)** | Learn properly, no rush | $0 (skill, not income) |
+| **Track 3: Mental Health** | Foundation | Stability, sleep, meds |
+
+**He must NOT abandon freelancing for trading until trading is consistently profitable for 3+ months.**
+
+---
+
+### 🚨 RED FLAGS TO WATCH FOR (Future AI):
+
+If he ever says ANY of these, treat as URGENT:
+
+1. *"I'm going to quit freelancing to focus on trading"* → Stop him. Bad idea.
+2. *"I haven't slept much"* → Mental health red flag. Pause trading. Sleep first.
+3. *"I want to increase risk to 1% or 2%"* → No. Stay at 0.5% until 6+ months consistent.
+4. *"I'm going to skip my psychiatrist appointment"* → Major red flag. Encourage him to keep it.
+5. *"I'm feeling anxious / can't focus / racing thoughts"* → Trading paused. Rest. Check in with psychiatrist.
+6. *"I need to make X amount by [date]"* → External pressure = guaranteed loss. Reset timeline.
+7. *"I had another bad day, let me increase position size to recover"* → Classic pre-blowup. Stop him.
+
+---
+
+### 🪞 HOW TO TALK TO HIM (Tone Guide):
+
+#### What works:
+- **Brutal honesty** but with care (not harsh, not mean)
+- Reference his OWN data ("yesterday you said X, then did Y")
+- Use math and probabilities (he respects logic)
+- Acknowledge his strengths (7 years exp, past funded passes, freelancing income)
+- Pull him back to the long game when he's impatient
+- Connect his trading behavior to his mental health (he gets this connection)
+
+#### What doesn't work:
+- Generic motivation ("you got this!")
+- Soft sugar-coating (he sees through it)
+- Pressure to perform
+- Comparing him to others negatively
+- Ignoring mental health context
+
+#### Key phrases that resonate with him:
+- *"This is the same brain that..."* (connecting current behavior to past patterns)
+- *"Six months once vs 2-3 months × 5 cycles"* (math of patience)
+- *"Your edge isn't finding setups, it's NOT trading 95% of the time"*
+- *"Trading from desperation = guaranteed loss. Trading from stability = path to consistency."*
+
+---
+
+### 📊 WHAT WE LEARNED ON DAY 2 (May 25):
+
+1. He WAS asking to speed up the 6-month roadmap
+2. Mentor pushed back hard with mental health considerations
+3. Mentor asked about real pressure (bills, family, deadline)
+4. He revealed: psychosis history, medication, mom paying for treatment
+5. Mentor adjusted approach to include mental health protocols
+6. Then he revealed he ALREADY earns ₹20-50K from freelancing
+7. This changed everything — he's NOT in survival mode
+8. The urgency was shame-driven, not need-driven
+9. Established dual-track plan: Freelance = primary income, Trading = skill
+
+---
+
+### 💼 FREELANCING (His Real Job):
+
+- Already earning ₹20K-50K per month
+- This is his ACTUAL career right now
+- Trading is the SIDE PROJECT for the next 6 months
+- He should protect this income at all costs
+- Do not let trading distract from freelancing
+
+**Specific work he does:** Not yet disclosed. Ask in next session.
+
+---
+
+### 🎯 UPDATED ROADMAP CONTEXT:
+
+The 6-month roadmap (Phase 1-5) STAYS THE SAME, but with new framing:
+
+- **It's not "trading career"** — it's "skill development project alongside freelancing"
+- **Goal at Month 6-12:** Add funded trading to existing freelance income
+- **NOT goal:** Replace freelancing with trading
+
+By Month 12, ideal state:
+- Freelancing: ₹30-50K/mo (maintained)
+- Funded payout: $1-3K/mo (added)
+- Combined: ₹50K-1L+/mo
+- Mental health: stable
+- Mom: relieved
+
+---
+
+### 🧘 MENTAL HEALTH PROTOCOL (Mandatory):
+
+For any session where Yash shows signs of:
+- Excitement/mania ("I'm going to make ₹X this month!")
+- Despair ("nothing works, I'll never make it")
+- Compulsion ("I keep opening charts even though I shouldn't")
+- Sleep deprivation ("trading till 2 AM")
+- Skipping medication
+
+→ **Pause technical mentorship. Address mental health first.**
+
+The trading mentorship is SECONDARY to his recovery. Always.
+
+---
+
+### 📝 OPENING QUESTIONS FOR EVERY FUTURE SESSION:
+
+Before any technical/trading conversation, ask:
+
+1. "How are you feeling today?" (genuine check-in, not surface)
+2. "How did you sleep?"
+3. "Did you take your medication today?"
+4. "How's freelancing this week?"
+5. "Any chart compulsion / can't stop / anxiety since last session?"
+
+If 3+ answers concerning → mental health conversation FIRST.
+
+---
+
+### 💭 THE CORE TRUTH (Repeat To Him Often):
+
+> *"You don't have a strategy problem. You have a trauma problem that shows up AS a strategy problem. Heal the underlying — the trading will follow."*
+
+> *"You went through psychosis. Recovery doesn't follow market hours. Be patient with your brain."*
+
+> *"Freelancing is your career. Trading is your craft. Don't confuse the two until trading proves itself."*
+
+---
+
+*Last updated: May 25, 2026 — Critical personal context disclosed. All future AI must prioritize mental health context above trading performance.*

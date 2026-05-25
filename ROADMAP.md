@@ -282,3 +282,58 @@ These are just as important as trade performance:
 ---
 
 [← Back to repo overview](./README.md)
+
+
+
+---
+
+## 🚨 CRITICAL CONTEXT (Added May 25, 2026)
+
+### This Roadmap Is For SKILL DEVELOPMENT, Not Primary Income.
+
+**Yash's Reality:**
+- Earns ₹20-50K/month from freelancing (PRIMARY income)
+- Has $3,000 trading account (skill development)
+- Recovering from psychosis — mental health is foundation
+- Lives with mom, on medication, supported
+
+### The 3-Track Plan:
+
+| Track | Focus | Status |
+|---|---|---|
+| **Track 1: Freelancing** | Primary income (₹30-50K/mo) | 🟢 Active — protect at all costs |
+| **Track 2: Trading** | Skill building (this roadmap) | 🟡 In Progress |
+| **Track 3: Mental Health** | Stability, sleep, medication | 🟢 Active — non-negotiable |
+
+### Year 1 Vision (Realistic):
+
+| Month | Freelance | Trading | Combined |
+|---|---|---|---|
+| 1-3 | ₹30-50K/mo | Backtest + small live | ₹30-50K |
+| 4-6 | ₹30-50K/mo | Consistent execution | ₹30-50K + small wins |
+| 7-9 | ₹30-50K/mo | Funded challenge attempt | ₹30-50K (potential payout) |
+| 10-12 | Maintain | Funded payouts ($1-3K) | **₹50K-1L/mo** |
+
+**Goal at Month 12:** Trading ADDS to freelance income, doesn't replace it.
+
+### Mental Health Rules (Non-Negotiable):
+
+1. ❌ NEVER trade until ₹15-25K+/month income from non-trading source ✅ (have it)
+2. ❌ NEVER reduce medication without psychiatrist approval
+3. ❌ NEVER skip psychiatrist appointments
+4. ❌ NEVER trade on less than 6 hours sleep
+5. ❌ NEVER trade if feeling manic, depressed, or anxious
+6. ❌ NEVER quit freelancing to focus on trading (until trading is consistent for 3+ months)
+7. ❌ NEVER increase risk above 0.5% in Year 1
+
+### Updated Pace:
+
+**The 6-month roadmap STAYS.** But framing changes:
+
+- It's not "trading career" — it's "skill development alongside freelancing"
+- No rushing. The roadmap accounts for his mental health needs.
+- Compression only when EARNED with execution data
+
+---
+
+*"Trading from desperation = guaranteed loss. Trading from stability = path to consistency. He has stability. Use it."*
