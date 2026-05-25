@@ -9,17 +9,19 @@
 ## 📍 WHERE I AM RIGHT NOW
 
 ```
-██░░░░░░░░░░░░░░░░░░  Phase 1 — Day 2 of ~21 days
+███░░░░░░░░░░░░░░░░░  Phase 1 — Day 3 of ~21 days
 ```
 
 | Status | Detail |
 |---|---|
 | Current Phase | Phase 1 — Foundation Reset |
-| Day | 2 (May 24, 2026) |
-| Live Trades Under System | 2 |
-| Backtests Completed | 0 / 50 |
-| Book Progress | 10 pages of Trading in the Zone |
-| Key Issue Being Fixed | Chart addiction + inability to hold trades |
+| Day | 3 (May 25, 2026) |
+| Live Trades Under System | 3 |
+| Backtests Completed | 3 / 50 |
+| Book Progress | Trading in the Zone — actively reading (lost count of pages) |
+| Key Issue Being Fixed | Holding trades + chart discipline |
+| Focus Pair | **XAUUSD only** (narrowed from 4 pairs) |
+| Key Win | First TP hit — +$35.60, held without manual exit ✅ |
 
 ---
 
@@ -229,7 +231,7 @@ Month 7+░░░░░░░░░░░░  Phase 5 (scaling)
 |---|---|---|---|---|---|
 | 1 | May 24 (Sun) | 2 | ~$5 | C+ | First trades, chart addiction confronted |
 | 2 | May 25 (Mon) | 1 | +$35.60 | A- | First WIN 🔥 Held to TP, backtested 3 trades |
-| 3 | May 26 (Tue) | — | — | — | *Pending — first real trading day* |
+| 3 | May 25 (Mon PM) | — | — | — | *Session 3 check-in: all green. Reading book. NY session pending.* |
 | 4 | May 27 (Wed) | — | — | — | |
 | 5 | May 28 (Thu) | — | — | — | |
 | 6 | May 29 (Fri) | — | — | — | |
@@ -248,10 +250,12 @@ These are just as important as trade performance:
 | Held through drawdown | ✅ | May 24, 2026 |
 | Closed charts on OFF time | ✅ | May 24, 2026 (evening) |
 | No demo gambling for 24 hours | ✅ | May 25, 2026 |
-| Read Trading in the Zone (Ch 1-3) | 🟡 | Started (10 pages) |
+| Read Trading in the Zone (Ch 1-3) | 🟡 | In progress (reading today) |
+| Narrowed to single pair (XAUUSD) | ✅ | May 25, 2026 |
+| First winning trade (full TP hit) | ✅ | May 25, 2026 |
+| Healthy check-in (sleep/meds/mood all green) | ✅ | May 25, 2026 |
 | 5 consecutive "no manual exit" days | ⬜ | |
 | First full week following all rules | ⬜ | |
-| First winning trade (full TP hit) | ✅ | May 25, 2026 |
 | 10 trades without a D-grade | ⬜ | |
 | Completed 50 backtests | ⬜ | |
 | First profitable week | ⬜ | |

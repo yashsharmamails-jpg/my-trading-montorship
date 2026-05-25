@@ -745,3 +745,107 @@ If 3+ answers concerning → mental health conversation FIRST.
 ---
 
 *Last updated: May 25, 2026 — Critical personal context disclosed. All future AI must prioritize mental health context above trading performance.*
+
+
+
+---
+
+## SESSION 3: May 25, 2026 (Monday — Pre-NY Check-in)
+
+### Date: May 25, 2026
+### Type: Quick check-in + plan for NY session
+### Duration: ~10 minutes
+
+---
+
+### CHECK-IN RESULTS (All Green):
+
+| Question | Answer | Status |
+|---|---|---|
+| How feeling? | Great | ✅ |
+| Sleep? | Great | ✅ |
+| Medication? | Yes | ✅ |
+| Chart time today? | 30-60 min | ✅ (healthy) |
+| Trades today? | 1 (XAUUSD win from earlier) | ✅ |
+| Freelancing? | Good | ✅ |
+| Trading in the Zone? | "Lost count" — reading actively | ✅ |
+
+**Assessment:** Best behavioral day yet. All indicators green. No compulsive patterns. Chose to read book instead of staring at charts. This is growth.
+
+---
+
+### KEY DECISION: SINGLE PAIR FOCUS
+
+Student announced he's narrowing focus to **XAUUSD only** for Phase 1.
+
+**Why this is excellent:**
+- Reduces screen time (fewer pairs to watch)
+- Reduces temptation (fewer "I see something" moments)
+- Builds deep pattern recognition on ONE instrument
+- Gold gives enough setups (2-3 per week minimum)
+- Aligns with his teacher (Traders Paradise) who primarily trades Gold
+
+**Updated trading parameters:**
+- Pair: XAUUSD only
+- Sessions: London + NY
+- System: DIRECTION → LOCATION → SWEEP → BOS → RETEST → ENTER
+- Risk: 0.5%
+- Max: 2 trades/day
+
+---
+
+### PLAN FOR REST OF DAY:
+
+1. Reading Trading in the Zone (going now)
+2. Pre-NY session: will return with HTF markup on Gold
+3. NY session: will look for setup if one forms (using full checklist)
+4. If no setup: accepts +$35.60 as a great day and closes charts
+
+---
+
+### BEHAVIORAL NOTES:
+
+- Student said "see you at pre-NY session" and LEFT to read the book
+- Did NOT ask to look at charts together
+- Did NOT request validation for a trade idea
+- Did NOT show compulsive urgency
+- This is MAJOR behavioral improvement from Day 1 (where he couldn't stop looking at charts)
+
+**Day 1:** Couldn't close charts, demo gambling, up at midnight on charts
+**Day 3:** Chose book over charts voluntarily, healthy chart time, calm demeanor
+
+---
+
+### NOTES FOR NEXT INTERACTION (Pre-NY):
+
+When student returns, he should provide:
+1. HTF bias on XAUUSD (H4/H1 structure)
+2. Key zones marked
+3. Liquidity pools identified
+
+Mentor should:
+- Validate or challenge his read
+- Remind: if no setup forms, +$35.60 day is an A-grade day
+- Remind: NO MANUAL EXITS
+- Watch for quality of analysis (is he forcing a bias or being honest?)
+
+---
+
+### UPDATED STATS:
+
+| Metric | Value |
+|---|---|
+| Total Trades (New System) | 3 |
+| Wins | 1 |
+| Losses | 0 |
+| Breakeven | 1 |
+| Manual Exits | 1 |
+| Total P&L | ~$40 |
+| Rules Compliance | 66% (2A/A-, 1C) |
+| Focus Pair | XAUUSD only |
+| Current Streak | 1 trade without manual exit ✅ |
+| Days Since Demo Gambling | 2 |
+
+---
+
+*Session 3 check-in complete. Student going to read. Will return for pre-NY markup.*

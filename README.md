@@ -79,6 +79,9 @@ Persistent context so any AI mentor can pick up where we left off.
 | Manual Exits | 1 |
 | Total P&L | ~$40 |
 | Rules Compliance | 66% |
+| Focus Pair | XAUUSD only |
+| Current Phase | Phase 1 — Day 3 |
+| Last Updated | May 25, 2026 |
 
 See [journal/README.md](./journal/README.md) for live updates.
 
