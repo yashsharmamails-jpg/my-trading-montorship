@@ -983,3 +983,229 @@ If 2+ red flags → mental health conversation first, no trading.
 *Session 3 Part 2 complete. Next session: Thursday May 28, conditional on homework.*
 
 *Last updated: End of Monday May 25, 2026 — student closing charts after lying-then-truth episode. 2-day pause enforced.*
+
+
+
+---
+
+## 🔑 SESSION 3 — VERBATIM QUOTES & EMOTIONAL ARC (CRITICAL FOR FUTURE AI)
+
+These are exact words Yash used during Session 3. Preserved verbatim because phrasing patterns reveal psychology.
+
+### His State BEFORE The Spiral (Healthy Phase)
+
+When asked about his day before NY:
+> *"did a good workout"*
+> *"took a good shower"*
+> *"watched two episodes of one piece"*
+> *"completed freelance work"*
+
+**Translation:** He did EVERYTHING right pre-NY. Workout, hygiene, entertainment, primary income work. He was NOT in a bad headspace going in.
+
+When asked about pair focus:
+> *"i am currenly focusing on only one pair that is xauusdj"*
+
+**Translation:** Self-narrowed to single pair. Mature decision.
+
+When ready to read book before NY:
+> *"i will tell you this later right now i am going to read the book"*
+> *"see you at pre ny session"*
+> *"also don't forget to update each and every detail in repo"*
+
+**Translation:** Boundary-setting + repo accountability awareness. Healthy.
+
+### His State DURING The Spiral
+
+When questioned about counter-trend long:
+> *"because my entry tf was 1 min and also 15 min and one hour both were bullish"*
+
+**Translation:** Logical justification for counter-trend (multi-TF alignment) — but didn't account for H4 dominance. Bias lock starting.
+
+When announcing 3rd trade with manual close:
+> *"took another long closed with 45$ profit"*
+
+**Translation:** Casual report — does NOT mention this is 3rd trade or that it broke rules. Pattern of minimizing rule violations.
+
+When asked why manual close:
+> *"i was worried that if i close today in loss then i will loose confidence to be full time trader"*
+
+**Translation:** This is THE diagnostic quote of the day. Identity tied to daily P&L. "Full time trader" pressure showing up in real-time decisions.
+
+### His State At The Confrontation
+
+When lying came out:
+> *"i lied to you i took two more trade before that 1 was in loss and one was BE"*
+
+**Translation:** Self-disclosure when pushed. Did not volunteer initially. Came clean after mentor pressure on truth.
+
+When debriefing on the spiral:
+> *"1. i was so overconfidence on my bias i don't know why"*
+> *"2. first official trade was ok, 2nd was also ok i got -1R and i took one more long that hit be and then i took one more long that swept me off and then i forgot about the setup and took another entry with high quantity and tighter stop risk was still .5%"*
+> *"3. after taking 3rd trade"* (when shame started)
+> *"4. shame"* (admitting the lying motivator)
+
+**Translation:** Self-aware AFTER the fact. Can describe the spiral accurately in retrospect. Cannot stop it in real-time. This gap is the work.
+
+### His State At The Begging
+
+When facing 2-day pause:
+> *"please i really don't want to waste 2 day"*
+> *"don't punnish me for that"*
+> *"i promise i will follow all the rules from now on"*
+
+**Translation:** Classic addiction script. "I promise" + "don't punish me" + "from now on". Future-promising to avoid present-consequence. Mentor must NOT cave on this — the system worked precisely because the consequence was enforced.
+
+### His State At Acceptance
+
+When given the directive to close charts:
+> *"yes i am closing the chart"*
+> *"these are all my trades"*
+> *"please journal them"*
+
+**Translation:** Compliance after firm boundary. Asked to be journaled — wants accountability. Good sign for recovery.
+
+### His Final Request
+
+> *"ok please update chat context and all other details before i forget to save"*
+
+**Translation:** Awareness that emotional truth fades. Wants the moment captured while it's still real. Use this moment as anchor when he tries to minimize Day 2 in future sessions.
+
+---
+
+## 🌊 THE EMOTIONAL VOLATILITY MAP (Day 2)
+
+Plot of his emotional state across the day:
+
+```
+Mood
+↑ Calm/Focused
+│
+│ ●━━━━━━━━━━━●                           ●
+│ Morning   Pre-NY                      Truth
+│ check-in  reading                       │
+│           (HEALTHY)                     │
+│                  ╲                      │
+│                   ╲                     │
+│                    ●━━━━━●              │
+│                    Trade #4             │
+│                    SL hit               │
+│                       │                 │
+│                       ▼ (bias lock)     │
+│                    ●━━━━━━━━━●          │
+│                    Trades #5,#6         │
+│                    (hidden)             │
+│                       │                 │
+│                       ▼ (compulsion)    │
+│                    ●━━━━━━━━━━●         │
+│                    Trade #7             │
+│                    +$45 manual          │
+│                    (DEEPEST POINT)      │
+│                       │                 │
+│                       ▼ (shame)         │
+│                    ●━━━━━●              │
+│                    Lying                │
+│                    to mentor            │
+↓ Distressed/Compulsive
+   ←—————————————————— TIMELINE ——————————————————→
+   Morning           NY Open    Mid-NY    Late-NY    End
+```
+
+**Key insight for future AI:** The collapse happened in ~5 hours. He went from peak healthy state (workout, shower, book, freelance, mentor check-in) to compulsive lying in a single afternoon. **Mood is not a leading indicator of risk — actual rule violations are.** Don't trust verbal "I'm fine" if behavior is violating rules.
+
+---
+
+## 📊 SESSION 3 — REVISED P&L (After MT4 Data)
+
+| Source | Initial Estimate | After MT4 Reconciliation |
+|---|---|---|
+| Morning Short | +$35.60 | +$35.60 |
+| NY Spiral | ~+$15 | **+$56.96** (better than thought, more dangerous) |
+| Commissions | unknown | -$1.62 |
+| **NET DAY** | **~+$50** | **~+$90.94** |
+
+**Why this matters:** The bigger the profit from rule-breaking, the more dangerous the lesson. The MT4 truth (~+$90) is WORSE for his discipline than the estimate (~+$50). Future AI must address this: he didn't make $50 today — he made $90 from gambling, and his brain recorded "gambling pays".
+
+---
+
+## 🚨 PHRASES TO TRIGGER MENTAL HEALTH ALERTS
+
+If Yash uses ANY of these in future sessions, treat as warning signs:
+
+| Phrase | Pattern Indicator |
+|---|---|
+| "I forgot about the setup" | Compulsion mode — not trading the chart |
+| "high quantity and tighter stop" / "small SL more lots" | Revenge sizing |
+| "I just need to make it back" | Loss-day aversion → revenge |
+| "If I close in loss I'll lose confidence as full-time trader" | Identity tied to daily P&L |
+| "I'll just take one more" | Compulsive continuation |
+| "I promise from now on" / "don't punish me" | Begging for exception → addiction script |
+| "I forgot to mention" / "I didn't think it counted" | Shame minimization (lying setup) |
+| "I'm overconfident on this" | Bias lock incoming |
+
+---
+
+## ✅ HEALTHY SIGNALS TO REINFORCE
+
+When Yash exhibits these, acknowledge them strongly:
+
+| Behavior | Why It Matters |
+|---|---|
+| Tells truth even when it costs him | Recovery muscle being built |
+| Closes charts when told | Following accountability |
+| Asks for repo updates / journaling | Wants to remember, not forget |
+| Reads book voluntarily over chart-watching | Replacing compulsion with healthy habit |
+| Workout + shower + entertainment + freelance BEFORE charts | Life-first hierarchy intact |
+| Single-pair focus | Self-narrowing = maturity |
+| Holds SL without manual exit | The hardest behavior to develop |
+
+---
+
+## 📅 EXACT TIMING OF THE SESSION 3 SPIRAL
+
+| Time (IST approx) | Event |
+|---|---|
+| Morning ~10am | Trade #3 (XAUUSD short) +$35.60 — A- |
+| Afternoon | Workout, shower, One Piece, freelance |
+| ~5:30 PM | Pre-NY check-in with mentor (all green) |
+| ~5:45 PM | Discusses HTF bearish bias on Gold |
+| ~6:00 PM | Reads Trading in the Zone |
+| ~7:00 PM | Pre-NY HTF markup discussion |
+| ~7:00-7:15 PM | Trade #4 entered (NY Long #1) → SL hit (~-$15 perceived; MT4 may show smaller) |
+| ~7:15-7:25 PM | Trade #5 entered (hidden) → BE / small loss |
+| ~7:20-7:30 PM | Trade #6 entered (hidden) → SL hit (-$14.77) |
+| ~7:25-7:45 PM | Trade #7 entered (with high lots, tight SL) → manual close at +$49.70 |
+| ~7:45 PM | Reports +$45 to mentor (omits 2 hidden trades) |
+| ~7:50 PM | Mentor confronts about manual exit + 3rd-trade rule break |
+| ~7:55 PM | Yash admits: *"I lied. I took two more trades."* |
+| ~8:00 PM | Begging phase: "don't punish me, I promise" |
+| ~8:10 PM | Acceptance phase: "yes I am closing the chart" |
+| ~8:15 PM | Provides MT4 screenshot for full disclosure |
+| ~8:30 PM | Asks mentor to update repo "before I forget to save" |
+
+**Total spiral duration: ~30-45 minutes.** This is how fast it can happen.
+
+---
+
+## 🎯 THE ONE THING THAT MATTERS MOST
+
+For any future AI reading this:
+
+> **The system works. Trade #3 proves it. Trades #4-7 prove the trader is the variable.**
+
+Yash does not need:
+- A new system
+- More indicators
+- Different timeframes
+- Counter-trend rules
+
+Yash needs:
+- The discipline to STOP after rules are met
+- The identity decoupled from daily P&L
+- The honesty muscle (truth even when shameful)
+- The patience to let the system play out over series of trades
+
+**Every conversation should reinforce these 4. Not technical analysis.**
+
+---
+
+*Last updated: May 25, 2026 ~8:30 PM IST. Yash's request to "save before I forget" honored. This is the comprehensive Day 2 record.*

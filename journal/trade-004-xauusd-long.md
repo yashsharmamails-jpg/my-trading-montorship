@@ -103,3 +103,56 @@ The loss itself was clean (held SL). What this trade UNLOCKED was the spiral tha
 ---
 
 *Note: Specific entry/SL/TP prices are estimates — to be filled in with exact MT4 values when journaling tomorrow.*
+
+
+
+---
+
+## 📋 EXACT MT4 NUMBERS (Status: NEEDS RECONCILIATION)
+
+**Important:** The MT4 screenshot Yash shared showed **only 3 NY tickets** (255014824, 255034908, 255042747). His verbal account described 4 NY trades. There is a discrepancy.
+
+### Possible Explanations
+
+| Possibility | Detail |
+|---|---|
+| **A** | Trade #4 in our journal = ticket 255014824 (which we labeled Trade #5). His verbal "first NY loss" was actually only -$0.45, but he perceived it as -1R due to catastrophizing. In this case, our journal's trade-004 and trade-005 are the SAME trade. |
+| **B** | There was an additional trade BEFORE 16:32 server time that wasn't shown in the visible portion of MT4 history. |
+| **C** | Trade #4 was on a different account/broker (demo? second live?). |
+
+### Action Required Thursday May 28
+
+- [ ] Open MT4 / trading platform
+- [ ] Pull FULL day's history (May 25, 2026)
+- [ ] Screenshot from morning Trade #3 entry through Trade #7 exit
+- [ ] Reconcile exact trade count
+- [ ] Update this file with verified entry/SL/TP/exit/lots/P&L
+
+### Best Guess Mapping (Pending Verification)
+
+If Possibility A is correct (most likely based on chart screenshots showing one early NY long that "lost"):
+
+| Journal Trade # | Verbal Description | MT4 Ticket | Actual P&L | Perceived P&L |
+|---|---|---|---|---|
+| #4 | "First NY long, lost -1R" | 255014824 | -$0.45 | "Felt like -1R" |
+| #5 | "Took another long, hit BE" | (consolidated with #4?) | — | BE |
+| #6 | "One more long, swept me off" | 255034908 | -$14.77 | -1R |
+| #7 | "Forgot setup, high qty, +$45 manual" | 255042747 | +$49.70 | +$45 |
+
+In this reading, the day was actually:
+- **3 NY trades total** (not 4)
+- Net NY P&L: +$56.96 - $1.62 commission = **+$55.34**
+- Net Day P&L: $35.60 (morning) + $55.34 (NY) = **+$90.94**
+
+### Why This Matters For The Lesson
+
+Whether it was 3 or 4 NY trades:
+- **Either way the 2-trade limit was broken**
+- **Either way bias lock + revenge sizing + manual exit happened**
+- The exact count doesn't change the consequences
+
+But the **discrepancy between perceived loss (-1R) and actual loss (-$0.45)** is important:
+- His brain registered a $15 loss when reality was a $0.45 loss
+- That phantom loss drove the next 1-2 trades
+- Lesson: **always verify P&L before reacting** — perception lies
+

@@ -116,3 +116,32 @@ Trade #6 hit SL → triggered Trade #7 (the worst trade of the day):
 ---
 
 *Specifics to be filled in tomorrow during full review.*
+
+
+
+---
+
+## 📋 EXACT MT4 NUMBERS (Confirmed From Trade History)
+
+| Field | Value |
+|---|---|
+| **Ticket** | 255034908 |
+| **Symbol** | XAUUSD.pc |
+| **Type** | BUY |
+| **Volume** | 0.07 lots |
+| **Open Time** | 2026.05.25 16:46:53 (server time, ~7:16 PM IST) |
+| **Open Price** | 4562.52 |
+| **Stop Loss** | 4560.49 |
+| **Close Time** | 2026.05.25 16:47:50 (server time, ~7:17 PM IST) |
+| **Close Price** | 4560.41 (SL hit) |
+| **Commission** | -$0.42 |
+| **Profit** | **-$14.77** (loss after commission) |
+| **Holding Time** | ~57 seconds |
+
+### What The Numbers Reveal
+
+1. **Held SL — no manual exit** ✅ One rule held even mid-spiral.
+2. **Tight SL: only 2.03 points** (4562.52 → 4560.49). Got clipped almost immediately.
+3. **Holding time under 1 minute** — entry was likely premature, or market just rejected hard.
+4. **This was the loss that triggered Trade #7** — the rescue trade was placed within 1 minute of this SL hit.
+

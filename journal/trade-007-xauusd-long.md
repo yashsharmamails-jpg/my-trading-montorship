@@ -165,3 +165,36 @@ This trade triggered the 2-day pause. Not because it lost — because it broke t
 ---
 
 *This trade goes in the journal as a permanent reminder. Re-read this entry every Sunday during weekly review for the next 4 weeks.*
+
+
+
+---
+
+## 📋 EXACT MT4 NUMBERS (Confirmed From Trade History)
+
+| Field | Value |
+|---|---|
+| **Ticket** | 255042747 |
+| **Symbol** | XAUUSD.pc |
+| **Type** | BUY |
+| **Volume** | 0.07 lots |
+| **Open Time** | 2026.05.25 16:48:54 (server time, ~7:18 PM IST) |
+| **Open Price** | 4562.14 |
+| **Take Profit (set)** | 4568.55 |
+| **Stop Loss** | (Not visible in screenshot — likely below entry) |
+| **Close Time** | 2026.05.25 17:10:35 (server time, ~7:40 PM IST) |
+| **Close Price** | **4569.24** (ABOVE the TP of 4568.55) |
+| **Commission** | -$0.42 |
+| **Profit** | **+$49.70** (after commission: ~+$49.28) |
+| **Holding Time** | ~22 minutes |
+
+### What The Numbers Confirm
+
+1. **Manual close above TP confirmed:** TP was 4568.55, exit was 4569.24. Either it was a TP hit with positive slippage, OR he closed manually past TP. **He admitted it was manual.**
+
+2. **Lot size escalation confirmed:** 0.07 lots vs initial 0.05 lots in earlier trade. Same risk % but bigger position = revenge sizing.
+
+3. **R:R was favorable:** Entry 4562.14, TP 4568.55 = 6.41 points reward. If SL was reasonable (~2-3 points below entry), R:R was ~1:2 to 1:3. Math checked out — the SETUP was decent, but the execution and motivation were wrong.
+
+4. **Holding time of ~22 minutes** — matches the "rapid rescue" pattern. Quick win to lock in.
+
