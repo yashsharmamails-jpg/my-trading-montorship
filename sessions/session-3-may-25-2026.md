@@ -333,3 +333,39 @@ The hard news:
 ---
 
 *Session 3 Part 2 complete. Next session: Thursday May 28 — assuming homework done.*
+
+
+
+---
+
+# SESSION 4 — May 26, 2026 (Tuesday — Pause Day 1 Check-in)
+
+**Type:** Morning check-in during enforced pause
+**Key Event:** Demo-copied mentor's trade from YouTube stream (honest disclosure)
+**Root Cause Named:** Identity Comfort — "I need to trade to feel like myself"
+
+## Summary
+
+Student admitted to watching Traders Paradise livestream and demo-copying a trade within 12 hours of pause starting. Told the truth immediately (no lying this time). When asked whether it was boredom, FOMO, or identity comfort — answered **"identity comfort"** without hesitation.
+
+This is the deepest root cause identified in the mentorship:
+- All 9 patterns trace to identity fusion with trading
+- When not trading → doesn't feel like himself → brain finds workarounds
+- Demo-copying is identity maintenance disguised as "learning"
+
+## Actions Taken
+
+1. Pause rules TIGHTENED: no charts, no streams, no replay, no demo
+2. Mirror Rule established: no copying mentor's trades for 30 days
+3. Identity exercise assigned: "I am a person who..." × 10
+4. Language correction: "learning to trade" not "am a trader"
+5. Pause NOT extended (reward for honesty)
+
+## The Critical Reframe
+
+> Trading is 70% of his identity. It needs to be 15%.
+> When trading is 15%, a losing day doesn't shake you. When it's 70%, every loss is existential.
+
+---
+
+*End of Session 4 summary. Full details in context/full-chat-context.md*
